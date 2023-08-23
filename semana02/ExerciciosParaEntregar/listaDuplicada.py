@@ -1,3 +1,4 @@
+# Crie um método que receba uma lista com elementos duplicados. Ela deve gerar uma lista com os elementos que estava duplicados e uma lista com os elementos unificados.
 
 def organizator(list):
     duplicated_itens = []
