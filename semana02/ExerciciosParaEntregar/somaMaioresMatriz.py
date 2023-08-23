@@ -1,3 +1,5 @@
+# A partir de uma matriz 3 x 3 numérica, percorra a matriz e some os maiores valores de cada linha.
+
 def sum_highest(matriz):
     highest1 = matriz[0][0]
     highest2 = matriz[1][0]
