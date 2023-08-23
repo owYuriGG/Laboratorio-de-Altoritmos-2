@@ -29,7 +29,6 @@ def main():
     if saque % 10 != 0:
         while saque % 10 != 0:
             saque = float(input("Digite o valor do saque: " ))
-    print("teste")
     contador100 = 0
     contador50 = 0
     contador20 = 0
