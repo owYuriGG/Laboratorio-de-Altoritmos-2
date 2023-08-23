@@ -1,3 +1,5 @@
+# Escreva uma função que verifica se uma matriz quadrada é simétrica, ou seja, se ela é igual à sua matriz transposta.
+
 def verify(matriz):
     n = len(matriz)
     for i in range(n):
