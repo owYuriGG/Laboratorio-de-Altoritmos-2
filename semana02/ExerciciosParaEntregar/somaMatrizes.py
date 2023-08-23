@@ -1,3 +1,5 @@
+# Escreva uma função que recebe duas matrizes como entrada e retorna uma nova matriz que é a soma das duas matrizes. Ambas matrizes devem possuir o tamanho de 3 x 3.
+
 def sum_matriz(matriz1, matriz2):
     matriz = [
         [0, 0, 0],
