@@ -1,3 +1,5 @@
+# A partir de uma matriz 3 x 3 numérica, percorra a matriz e calcule o valor médio total da matriz e de cada linha.
+
 def avarage(matriz):
     totalAvarage = 0
     line1Avarage = 0
