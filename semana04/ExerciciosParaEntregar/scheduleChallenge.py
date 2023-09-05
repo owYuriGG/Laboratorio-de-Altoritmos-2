@@ -36,8 +36,7 @@ def menu():
     return opc
 
 def createContact(schedule):
-    if name == 'teste':
-        name = str(input("Digite o nome do contato: ")).upper()
+    name = str(input("Digite o nome do contato: ")).upper()
     if name in schedule:
         clear()
         print(f"Você já tem um contato com o nome '{name}'!")
