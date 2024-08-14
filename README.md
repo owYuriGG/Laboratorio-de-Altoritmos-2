@@ -17,7 +17,7 @@ Aqui está registrado todas as atividades, tarefas e trabalhos desenvolvidos ao 
 
 *Cadeira do segundo semestre do curso Sistemas de Informação da AMF*
 
-Aluno Yuri Garcia, turma SIS2A
-
-
-> @yuri.garciia
+> [Meu Instagram](https://www.instagram.com/yuri.garciia)
+>
+> 
+> [Meu Linkedin](https://www.linkedin.com/in/ogarciia/)
